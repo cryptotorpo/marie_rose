@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "YourFont";
+  src: url("https://cdn.glitch.global/d9b990f0-f28d-49fd-b14e-85a0df5ed795/slkscrb.ttf?v=1713150896267")
+    format("truetype");
+}
+
+.title {
+  font-family: "YourFont", sans-serif;
+}
+
+@font-face {
+  font-family: "Gorilla Milkshake";
+  src: url("/gm.ttf") format("truetype");
+}
+
+.subtitle {
+  font-family: "Gorilla Milkshake", sans-serif;
+}
+
+.tokenomics-box {
+  font-size: 30px !important;
+}
+
+.meme-row img {
+  object-fit: cover;
+}
